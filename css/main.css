@@ -1,0 +1,23 @@
+body {
+  font: normal normal 14px Arial, Arial, Arial, Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 1.3rem;
+	line-height: 1.2;
+  margin-left: 20px;
+}
+
+table {
+  font-size: 14px;
+  text-align: left;
+  position: relative;
+  border-collapse: collapse; 
+  margin: 20px;
+  table-layout: fixed;
+}
+
+div.references {
+  font-size: 12px;
+}
